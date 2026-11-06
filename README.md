@@ -1,4 +1,4 @@
-# Ivory Tower BBS (Local & Off-Grid Bulletin Board System)
+# 🏰 Ivory Tower BBS — Now Officially Online!
 
 <div align="center">
   <img src="./public/banner.jpg" alt="Ivory Tower BBS Banner - Vintage CRT Monitor, Acoustic Coupler Modem and Monospace Terminal" width="100%" style="border-radius: 4px; box-shadow: 0 4px 20px rgba(0,0,0,0.6);" />
@@ -7,15 +7,43 @@
 <div align="center">
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Offline First](https://img.shields.io/badge/Storage-IndexedDB_Offline--First-emerald.svg)](#offline-first-storage--3-way-vector-conflict-resolution)
-[![Encryption](https://img.shields.io/badge/Security-AES--256--GCM_E2EE-yellow.svg)](#cryptographic-architecture-e2ee-pbkdf2--mfa)
-[![Radio DSP](https://img.shields.io/badge/Web_Audio-Bell_202_AFSK_1200_Baud-cyan.svg)](#bell-202-afsk-acoustic-audio-modulator--ctcss-sub-tones)
-[![Multilingual](https://img.shields.io/badge/Languages-8_Supported_Locales-purple.svg)](#multilingual-support--localization)
-[![PWA](https://img.shields.io/badge/PWA-Installable_iOS_%26_Android-orange.svg)](#installation--production-deployment)
+[![Status: Online](https://img.shields.io/badge/Status-🟢_Officially_Online-brightgreen.svg)](#-ivory-tower-bbs--now-officially-online)
+[![Offline First](https://img.shields.io/badge/Storage-IndexedDB_Offline--First-emerald.svg)](#10-offline-first-storage--3-way-vector-conflict-resolution)
+[![Encryption](https://img.shields.io/badge/Security-AES--256--GCM_E2EE-yellow.svg)](#9-cryptographic-architecture-e2ee-pbkdf2--mfa)
+[![Radio DSP](https://img.shields.io/badge/Web_Audio-Bell_202_AFSK_1200_Baud-cyan.svg)](#8-bell-202-afsk-acoustic-audio-modulator--ctcss)
+[![Multilingual](https://img.shields.io/badge/Languages-8_Supported_Locales-purple.svg)](#3-multilingual-support--localization)
+[![PWA](https://img.shields.io/badge/PWA-Installable_iOS_%26_Android-orange.svg)](#14-installation--production-deployment)
+[![Sponsor](https://img.shields.io/badge/Sponsor-PayPal-00457C.svg?logo=paypal)](#-sponsor-ivory-tower-bbs)
 
 </div>
 
+---
+
+## 📢 Ivory Tower BBS is Officially Online!
+
+**The wait is over!** After dedicated development, **Ivory Tower BBS** has officially launched and is now online and available for everyone. This is a fully-featured, offline-first Bulletin Board System — built for emergency communications, local mesh networks, amateur radio operators, and decentralized community coordination.
+
+Whether you're a SysOp looking to set up a local node, a ham radio operator in search of a reliable communication platform, or simply someone with a passion for retro computing and digital sovereignty — **Ivory Tower BBS is ready for you.**
+
 > **Ivory Tower BBS** is an authentic, offline-first Bulletin Board System engineered for emergency communications, neighborhood mesh collectives, amateur radio operators, and decentralized community coordination. Featuring a retro CRT phosphor terminal, ANSI VT100 / CP437 box-drawing rendering, zero-knowledge client-side encryption (AES-256-GCM), a Bell 202 AFSK acoustic audio coupler, APRS meteorological telemetry, and a complete SysOp administration suite.
+
+---
+
+## 💖 Sponsor Ivory Tower BBS
+
+Ivory Tower BBS is an open-source project built with passion and dedication. Want to support the continued development of this project? You can!
+
+**Sponsor this project by making a donation via PayPal:**
+
+<div align="center">
+
+### ☕ [Donate via PayPal](https://paypal.me/luciferamorgenster)
+
+📧 **PayPal:** `luciferamorgenster@gmail.com`
+
+</div>
+
+Every donation, big or small, helps keep Ivory Tower BBS alive, fund new features, and support ongoing development. Thank you for your generosity! 🙏
 
 ---
 
@@ -335,7 +363,7 @@ print("Response:", res.json())
 ### Local Development:
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ivory-tower-bbs.git
+git clone https://github.com/luciferamorgenster/ivory-tower-bbs.git
 cd ivory-tower-bbs
 
 # Install dependencies
@@ -365,3 +393,18 @@ npm start
 Distributed under the **Apache-2.0 License**. See `LICENSE` for details.
 
 Developed for community resilience, emergency radio preparedness, and digital sovereignty.
+
+---
+
+<div align="center">
+
+### 💖 Support Ivory Tower BBS
+
+This project is open-source and built with love.\
+Help keep the project alive and fund its continued development!
+
+**[☕ Donate via PayPal — luciferamorgenster@gmail.com](https://paypal.me/luciferamorgenster)**
+
+Thank you for your support! 🙏
+
+</div>
